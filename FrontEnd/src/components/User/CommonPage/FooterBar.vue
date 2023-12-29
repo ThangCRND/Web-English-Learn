@@ -27,10 +27,10 @@
                 <a class="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm" href="#">About Us</a>
               </li>
               <li>
-                <a class="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm" href="https://github.com/ThangCRND/Web-Learn-English/">Blog</a>
+                <a class="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm" href="https://github.com/ThangCRND/Web-English-Learn">Blog</a>
               </li>
               <li>
-                <a class="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm" href="https://github.com/ThangCRND/Web-Learn-English/">Github</a>
+                <a class="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm" href="https://github.com/ThangCRND/Web-English-Learn">Github</a>
               </li>
               <li>
                 <a class="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm" href="#">Free Products</a>
@@ -62,7 +62,7 @@
       <div class="w-full md:w-4/12 px-4 mx-auto text-center">
         <div class="text-md font-semibold py-1">
           Copyright © <span>2023</span> -
-          <a href="https://github.com/ThangCRND/Web-Learn-English/" class="text-blueGray-500 hover:text-primaryBlue">Creative by <span class="text-primaryBlue">Nhom9</span></a>.
+          <a href="https://github.com/ThangCRND/Web-English-Learn" class="text-blueGray-500 hover:text-primaryBlue">Creative by <span class="text-primaryBlue">Nhom9</span></a>.
         </div>
       </div>
     </div>
