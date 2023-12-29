@@ -26,20 +26,22 @@ password: admin123
 ```
 
 # Mô hình kiến trúc thiết kế
-![image](https://github.com/ThangCRND/Web-English-Learn/assets/130020047/cd79d845-2332-4dc4-bf8e-df9443dfae7b)
-
+![Screenshot 2023-12-21 123327](https://github.com/ThangCRND/Web-English-Learn/assets/130020047/9173bef1-fa20-4e38-8ece-ee9d464e36cb)
 
 
 # Giao diện website
-![image](https://github.com/ThangCRND/Web-Learn-English/assets/130020047/b07c5512-3f52-459f-920c-417bf7cc6ab1)
+![Home_Layout](https://github.com/ThangCRND/Web-English-Learn/assets/130020047/2c315a61-4f74-4843-a6f8-ba358edd0e27)
+
 
 # Trang làm Trắc nghiệm
-![image](https://github.com/ThangCRND/Web-Learn-English/assets/130020047/5256a1ce-d239-45a6-8c72-a6100da837de)
+![Layout_ListeningTest](https://github.com/ThangCRND/Web-English-Learn/assets/130020047/d9ca0620-073c-40cf-968b-ca799061be90)
+
 
 
 # CMS Admin quản lý câu hỏi - đề thi - tạo quiz
-![image](https://github.com/ThangCRND/Web-Learn-English/assets/130020047/fbe7ff3f-e4db-4734-8f66-de1da67cfa19)
-![image](https://github.com/ThangCRND/Web-Learn-English/assets/130020047/f4f2444e-8106-4424-906a-a441ae798f19)
+![image](https://github.com/ThangCRND/Web-English-Learn/assets/130020047/c2496dea-a8c5-4bda-8d9d-53b0fbc18f10)
+![Uploading image.png…]()
+
 
 
 
