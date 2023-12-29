@@ -40,7 +40,8 @@ password: admin123
 
 # CMS Admin quản lý câu hỏi - đề thi - tạo quiz
 ![image](https://github.com/ThangCRND/Web-English-Learn/assets/130020047/c2496dea-a8c5-4bda-8d9d-53b0fbc18f10)
-![Uploading image.png…]()
+![image](https://github.com/ThangCRND/Web-English-Learn/assets/130020047/cb4dc743-a2c3-4cf1-8f0e-f85b54daa796)
+
 
 
 
