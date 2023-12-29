@@ -3,7 +3,7 @@
 ## Installation
 **1. Clone project**
 ```
-git clone https://github.com/ThangCRND/Web-Learn-English.git
+https://github.com/ThangCRND/Web-English-Learn.git
 ```
 **2. In BackEnd Folder**
 ```
