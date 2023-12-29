@@ -26,7 +26,7 @@ password: admin123
 ```
 
 # Mô hình kiến trúc thiết kế
-![image](https://github.com/ThangCRND/Web-Learn-English/assets/130020047/cd79d845-2332-4dc4-bf8e-df9443dfae7b)
+![image](https://github.com/ThangCRND/Web-English-Learn/assets/130020047/cd79d845-2332-4dc4-bf8e-df9443dfae7b)
 
 
 
